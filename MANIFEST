@@ -2,6 +2,7 @@ Build.PL
 Changes
 eg/mock_io_file.pl
 eg/mock_meta_io_file.pl
+eg/mock_net_ftp.pl
 lib/Test/Builder/Mock/Class.pm
 lib/Test/Builder/Mock/Class/Role/Meta/Class.pm
 lib/Test/Builder/Mock/Class/Role/Object.pm
@@ -22,7 +23,6 @@ xt/distribution.t
 xt/kwalitee.t
 xt/perlcritic.t
 xt/perlcriticrc
-xt/pod.t
 xt/pod_coverage.t
 xt/pod_spell.t
 xt/pod_spellrc
